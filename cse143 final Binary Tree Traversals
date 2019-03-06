@@ -1,0 +1,12 @@
+（完全不保证对的一些“答案”）
+Binary Tree Traversals 001：
+pre: 4 2 7 9 3 6 1 8 5 0
+in: 7 9 2 3 6 4 8 1 0 5
+post: 9 7 6 3 2 8 0 5 1 4
+
+Binary Tree Traversals 002：
+pre: 8 3 2 0 4 6 9 1 7 5
+in: 0 2 3 4 6 8 1 9 5 7 
+post: 0 2 6 4 3 1 5 7 9 8
+
+  
